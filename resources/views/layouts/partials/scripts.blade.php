@@ -1,0 +1,10 @@
+ <script src="{{asset('front/assets/web/assets/jquery/jquery.min.js')}}"></script>
+  <script src="{{asset('front/assets/popper/popper.min.js')}}"></script>
+  <script src="{{asset('front/assets/tether/tether.min.js')}}"></script>
+  <script src="{{asset('front/assets/bootstrap/js/bootstrap.min.js')}}"></script>
+  <script src="{{asset('front/assets/smoothscroll/smooth-scroll.js')}}"></script>
+  <script src="{{asset('front/assets/dropdown/js/script.min.js')}}"></script>
+  <script src="{{asset('front/assets/touchswipe/jquery.touch-swipe.min.js')}}"></script>
+  <script src="{{asset('front/assets/parallax/jarallax.min.js')}}"></script>
+  <script src="{{asset('front/assets/theme/js/script.js')}}"></script>
+  <script  src="js/index.js"></script>
